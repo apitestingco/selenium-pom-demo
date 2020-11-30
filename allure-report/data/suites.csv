@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Nov 28 12:29:24 IST 2020","Sat Nov 28 12:29:24 IST 2020","11","Surefire suite","Surefire test","com.scrolltest.tests.TestLogin","com.scrolltest.tests.TestLogin","Test1","Test1","Test for True vs True"
+"passed","Sat Nov 28 13:07:01 IST 2020","Sat Nov 28 13:07:10 IST 2020","9387","Surefire suite","Surefire test","com.scrolltest.tests.TestLogin","com.scrolltest.tests.TestLogin","verifyLoggedInUser","verifyLoggedInUser","Verify Logged in User"
+"passed","Sat Nov 28 13:06:48 IST 2020","Sat Nov 28 13:06:55 IST 2020","6500","Surefire suite","Surefire test","com.scrolltest.tests.TestLogin","com.scrolltest.tests.TestLogin","loginToVwo","loginToVwo","Verify Login to VWO"

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "ca41bd7bd6f32d18",
+  "name" : "loginToVwo",
+  "time" : {
+    "start" : 1606549008882,
+    "stop" : 1606549015382,
+    "duration" : 6500
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "f3b95476b84df117",
+  "name" : "verifyLoggedInUser",
+  "time" : {
+    "start" : 1606549021384,
+    "stop" : 1606549030771,
+    "duration" : 9387
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8d1148f3d2135e14",
+  "name" : "Test1",
+  "time" : {
+    "start" : 1606546764241,
+    "stop" : 1606546764252,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

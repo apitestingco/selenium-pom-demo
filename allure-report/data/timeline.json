@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Pramods-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "28448@Pramods-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "f15b59acfc2a745c",
+        "parentUid" : "09b115e0ed24a49bbc1e025db3066707",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606546583220,
+          "stop" : 1606546583234,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09b115e0ed24a49bbc1e025db3066707"
+    }, {
+      "name" : "29948@Pramods-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "loginToVwo",
+        "uid" : "ca41bd7bd6f32d18",
+        "parentUid" : "d3b2fe62156b6c5f17c6e0aeffcde27a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606549008882,
+          "stop" : 1606549015382,
+          "duration" : 6500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoggedInUser",
+        "uid" : "f3b95476b84df117",
+        "parentUid" : "d3b2fe62156b6c5f17c6e0aeffcde27a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606549021384,
+          "stop" : 1606549030771,
+          "duration" : 9387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d3b2fe62156b6c5f17c6e0aeffcde27a"
+    }, {
+      "name" : "28939@Pramods-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Test1",
+        "uid" : "8d1148f3d2135e14",
+        "parentUid" : "41fd7c66826febb5d83d498ecfdf4321",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606546764241,
+          "stop" : 1606546764252,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "41fd7c66826febb5d83d498ecfdf4321"
+    } ],
+    "uid" : "09f153309800f2fb6a54eb4f29e4705e"
+  } ]
+}

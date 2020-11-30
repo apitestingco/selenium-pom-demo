@@ -1,0 +1,116 @@
+{
+  "uid" : "ca41bd7bd6f32d18",
+  "name" : "loginToVwo",
+  "fullName" : "com.scrolltest.tests.TestLogin.loginToVwo",
+  "historyId" : "7c9a3a5b83971ee32542faafcea25aa1",
+  "time" : {
+    "start" : 1606549008882,
+    "stop" : 1606549015382,
+    "duration" : 6500
+  },
+  "description" : "Verify Login to VWO",
+  "descriptionHtml" : "<p>Verify Login to VWO</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1606549000942,
+      "stop" : 1606549008481,
+      "duration" : 7539
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify Login to VWO",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "263b8fac8181a561",
+      "name" : "Login to VWO",
+      "source" : "263b8fac8181a561.png",
+      "type" : "image/png",
+      "size" : 481640
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1606549015397,
+      "stop" : 1606549016057,
+      "duration" : 660
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginToVwo"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Pramods-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "29948@Pramods-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca41bd7bd6f32d18.json",
+  "parameterValues" : [ ]
+}

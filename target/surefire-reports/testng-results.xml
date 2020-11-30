@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-28T07:36:40Z" name="Surefire suite" finished-at="2020-11-28T07:37:11Z" duration-ms="30753">
+    <groups>
+    </groups>
+    <test started-at="2020-11-28T07:36:40Z" name="Surefire test" finished-at="2020-11-28T07:37:11Z" duration-ms="30753">
+      <class name="com.scrolltest.tests.TestLogin">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:06:40Z" name="setup" finished-at="2020-11-28T13:06:48Z" duration-ms="7549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToVwo()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:06:48Z" name="loginToVwo" finished-at="2020-11-28T13:06:55Z" duration-ms="6747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToVwo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:06:55Z" name="tearDown" finished-at="2020-11-28T13:06:56Z" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:06:56Z" name="setup" finished-at="2020-11-28T13:07:01Z" duration-ms="5319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoggedInUser()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:07:01Z" name="verifyLoggedInUser" finished-at="2020-11-28T13:07:10Z" duration-ms="9393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoggedInUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.scrolltest.tests.TestLogin@78dc4696]" started-at="2020-11-28T13:07:10Z" name="tearDown" finished-at="2020-11-28T13:07:11Z" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.scrolltest.tests.TestLogin -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

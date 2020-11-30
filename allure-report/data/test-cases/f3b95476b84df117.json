@@ -1,0 +1,116 @@
+{
+  "uid" : "f3b95476b84df117",
+  "name" : "verifyLoggedInUser",
+  "fullName" : "com.scrolltest.tests.TestLogin.verifyLoggedInUser",
+  "historyId" : "2a12485b8c12df1c2859a84491ac5cbb",
+  "time" : {
+    "start" : 1606549021384,
+    "stop" : 1606549030771,
+    "duration" : 9387
+  },
+  "description" : "Verify Logged in User",
+  "descriptionHtml" : "<p>Verify Logged in User</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1606549016059,
+      "stop" : 1606549021377,
+      "duration" : 5318
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify Logged in User",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d6942ad416a66f15",
+      "name" : "Verify Logged in User",
+      "source" : "d6942ad416a66f15.png",
+      "type" : "image/png",
+      "size" : 34778
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1606549030773,
+      "stop" : 1606549031642,
+      "duration" : 869
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyLoggedInUser"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.scrolltest.tests.TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Pramods-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "29948@Pramods-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3b95476b84df117.json",
+  "parameterValues" : [ ]
+}
